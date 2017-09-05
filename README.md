@@ -5,7 +5,7 @@ history, using Genius.com API and Last.FM API.
 
 Ever hit shuffle and got stuck with that line from a song about love? What about
 that one song with the word 'baby' in it from last week?? Want to find a song
-your fiend likes about dogs? Last.FM Lyrics Finder will go though your
+your friend likes about dogs? Last.FM Lyrics Finder will go though your
 Last.FM library and will find songs with your search query in their lyrics :)
 
 ## Installation
