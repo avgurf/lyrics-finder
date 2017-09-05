@@ -1,6 +1,7 @@
 {
   "scripts":{
     "format": "prettier --write --single-quote --print-width=120 --parser=flow --tab-width=2 \"js/**/*.{js,jsx}\"",
+    "lint": "eslint **/*.{js,jsx} --quiet"
   },
   "name": "lyrics-finder",
   "version": "0.0.1",
