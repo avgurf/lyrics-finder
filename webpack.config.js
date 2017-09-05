@@ -2,14 +2,14 @@ const path = require('path');
 
 module.exports = {
   context: __dirname,
-  entry: './js/ClientApp.js',
-  devtool: 'source-map',
+  entry: "./js/ClientApp.js",
+  devtool: "source-map",
   output: {
-    path: path.join(__dirname, 'public'),
-    filename: 'bundle.js'
+    path: path.join(__dirname, "public"),
+    filename: "bundle.js"
   },
   resolve: {
-    extensions: ['.js', '.jsx', '.json']
+    extensions: [".js", ".jsx", ".json"]
   },
   stats: {
     colors: true,
@@ -26,7 +26,7 @@ module.exports = {
       },
       {
         test: /\.jsx?$/,
-        loader: 'babel-loader'
+        loader: "babel-loader"
       }
     ]
   }
