@@ -1,4 +1,7 @@
 {
+  "scripts":{
+    "format": "prettier --write --single-quote --print-width=120 --parser=flow --tab-width=2 \"js/**/*.{js,jsx}\"",
+  },
   "name": "lyrics-finder",
   "version": "0.0.1",
   "description": "A Last.FM lyrics search engine based on your scrooble history\"",
