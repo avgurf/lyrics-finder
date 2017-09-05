@@ -1,0 +1,9 @@
+{
+  "name": "lyrics-finder",
+  "version": "0.0.1",
+  "description": "A Last.FM lyrics search engine based on your scrooble history\"",
+  "main": "./src/index.js",
+  "repository": "https://github.com/avgurf/lyrics-finder.git",
+  "author": "avgurf",
+  "license": "MIT"
+}
